@@ -1,8 +1,4 @@
-# Project Title
-
-Pandora FMS 7.44 CVE-2020-13851 Remote Code Execution
-
-## Description
+# Pandora FMS 7.44 CVE-2020-13851
 
 Pandora FMS 7.44 CVE-2020-13851 RCE allows an authenticated user to achieve remote command execution via the events feature. Can be done with credentials or a PHP session cookie.
 
